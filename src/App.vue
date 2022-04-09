@@ -88,7 +88,8 @@ onMounted(async () => {
 const initCharts = () => {
 
   const city = store.list.diseaseh5Shelf.areaTree[0].children
-  store.item = city[1].children
+  store.item = city[3].children
+  // 默认展示城市列表 
   const data = city.map((v) => {
     return {
       name: v.name,
