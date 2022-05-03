@@ -2,7 +2,8 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## 项目地址预览：http://covid19.suxin23.cn/
+## 项目地址预览：~~http://covid19.suxin23.cn/~~
+## http://162.14.73.22:410/
 
 ## Recommended IDE Setup
 
